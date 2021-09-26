@@ -30,7 +30,7 @@ namespace PayPow.Platform.Backend.Domain.Addresses.Handlers
                         select new OrderDto
                         {
                             Id = o.Id,
-                            CreatedAt = o.CreatedAt,
+                            CreatedAt = o.CreatedAt.DateTime,
                             Number = o.Number,
                             Deliverydate = o.Deliverydate,
                             TotalValue = o.TotalValue,
