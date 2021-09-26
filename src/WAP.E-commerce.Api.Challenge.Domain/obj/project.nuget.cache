@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5p7Y9vBqPrJfJj9SW7PWxfgf0tRKCTGNoKvC45ZjEwciB2lKNhKYTbzvu20A7PyzPJlsvjpsCI5PyPUq5oEXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dico_\\Documents\\Projeto desafio WA Projects\\WAP.E-commerce.Api.Challenge\\src\\WAP.E-commerce.Api.Challenge.Domain\\WAP.E-commerce.Api.Challenge.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dico_\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\flunt.br\\1.4.0\\flunt.br.1.4.0.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.8\\microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.8\\microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\dico_\\.nuget\\packages\\valueinjecter\\3.2.0\\valueinjecter.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
